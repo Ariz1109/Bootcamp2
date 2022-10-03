@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.ViewModel\bin\Debug\Bootcamp.ViewModel.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.ViewModel\bin\Debug\Bootcamp.ViewModel.pdb
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.ViewModel\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.ViewModel\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.ViewModel\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.ViewModel\obj\Debug\Bootcamp.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.ViewModel\obj\Debug\Bootcamp.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.ViewModel\obj\Debug\Bootcamp.ViewModel.csproj.CopyComplete
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.ViewModel\obj\Debug\Bootcamp.ViewModel.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.ViewModel\obj\Debug\Bootcamp.ViewModel.pdb

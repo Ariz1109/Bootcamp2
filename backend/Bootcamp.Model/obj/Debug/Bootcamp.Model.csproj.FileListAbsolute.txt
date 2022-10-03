@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\bin\Debug\Bootcamp.Model.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\bin\Debug\Bootcamp.Model.pdb
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\obj\Debug\Bootcamp.Model.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\obj\Debug\Bootcamp.Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\obj\Debug\Bootcamp.Model.csproj.CopyComplete
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\obj\Debug\Bootcamp.Model.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\obj\Debug\Bootcamp.Model.pdb
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\bin\Debug\Dapper.dll
+C:\Users\Usuario\Documents\backend\bootcamp-backend\Bootcamp.Model\bin\Debug\Dapper.xml
